@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 38 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.3123 0.729 23.389 0.729 23.389 20.2504 0.3123 20.2504"></polygon>
+        <polygon id="path-3" points="0 0.729 25.9105 0.729 25.9105 25 0 25"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Local-Treasurer_dashboard01" transform="translate(-19.000000, -17.000000)">
+            <g id="Group-7" transform="translate(19.000000, 16.000000)">
+                <g id="Group-3" transform="translate(14.000000, 0.271200)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M4.4263,14.4824 C4.5723,14.5534 12.5343,20.2504 12.5343,20.2504 L17.9093,14.9374 L19.9723,11.1874 L14.1593,13.9374 L21.5973,8.2504 L22.2843,5.7504 L13.6163,10.7014 L22.0343,4.0004 L23.3893,0.7284 L12.4723,8.0004 L8.4723,13.0274 L3.6203,10.6624 L0.3123,14.4464 L1.7063,15.7754 L4.4263,14.4824 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+                </g>
+                <g id="Group-6" transform="translate(0.000000, 0.271200)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-5"></g>
+                    <polygon id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)" points="18.2935 15.2021 25.9105 20.5921 18.6945 25.0001 10.8545 20.2501 5.4795 14.9371 3.4165 11.1871 9.2295 13.9371 1.7915 8.2501 1.1045 5.7501 9.6895 10.6361 1.3545 4.0001 -0.0005 0.7281 10.9165 8.0001 14.9085 12.8181 13.5575 14.4251 15.6445 16.4611"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
