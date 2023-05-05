@@ -10,7 +10,10 @@
    xml:space="preserve"
    width="502"
    height="150.64545"
-   viewBox="0 0 502 150.64545"><metadata
+   viewBox="0 0 502 150.64545">
+    <defs><style>.cls-1{fill:#FFFFFF;}.cls-2{fill:#5a5a5a;}.cls-3{fill:#e60000;}</style></defs>
+    <rect class="cls-1" width="500" height="190"/>
+    <metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
